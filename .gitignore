@@ -1,4 +1,5 @@
 /tmp
+db.sqlite3
 # Created by https://www.toptal.com/developers/gitignore/api/go,macos,linux,windows,visualstudiocode,jetbrains+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=go,macos,linux,windows,visualstudiocode,jetbrains+all
 
