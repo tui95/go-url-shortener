@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS url_mapping (
+    id INTEGER PRIMARY KEY,
+    url TEXT NOT NULL
+);
